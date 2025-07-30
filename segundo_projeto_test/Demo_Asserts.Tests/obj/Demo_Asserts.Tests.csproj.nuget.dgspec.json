@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\segundo_projeto_test\\Demo_Asserts.Tests\\Demo_Asserts.Tests.csproj": {}
+    "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\Learning-TDD-NUnit\\segundo_projeto_test\\Demo_Asserts.Tests\\Demo_Asserts.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\segundo_projeto_test\\Demo_Asserts.Tests\\Demo_Asserts.Tests.csproj": {
+    "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\Learning-TDD-NUnit\\segundo_projeto_test\\Demo_Asserts.Tests\\Demo_Asserts.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\segundo_projeto_test\\Demo_Asserts.Tests\\Demo_Asserts.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\Learning-TDD-NUnit\\segundo_projeto_test\\Demo_Asserts.Tests\\Demo_Asserts.Tests.csproj",
         "projectName": "Demo_Asserts.Tests",
-        "projectPath": "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\segundo_projeto_test\\Demo_Asserts.Tests\\Demo_Asserts.Tests.csproj",
+        "projectPath": "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\Learning-TDD-NUnit\\segundo_projeto_test\\Demo_Asserts.Tests\\Demo_Asserts.Tests.csproj",
         "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\segundo_projeto_test\\Demo_Asserts.Tests\\obj\\",
+        "outputPath": "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\Learning-TDD-NUnit\\segundo_projeto_test\\Demo_Asserts.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\segundo_projeto_test\\Demo_Asserts\\Demo_Asserts.csproj": {
-                "projectPath": "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\segundo_projeto_test\\Demo_Asserts\\Demo_Asserts.csproj"
+              "c:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\Learning-TDD-NUnit\\segundo_projeto_test\\Demo_Asserts\\Demo_Asserts.csproj": {
+                "projectPath": "c:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\Learning-TDD-NUnit\\segundo_projeto_test\\Demo_Asserts\\Demo_Asserts.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\segundo_projeto_test\\Demo_Asserts\\Demo_Asserts.csproj": {
+    "c:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\Learning-TDD-NUnit\\segundo_projeto_test\\Demo_Asserts\\Demo_Asserts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\segundo_projeto_test\\Demo_Asserts\\Demo_Asserts.csproj",
+        "projectUniqueName": "c:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\Learning-TDD-NUnit\\segundo_projeto_test\\Demo_Asserts\\Demo_Asserts.csproj",
         "projectName": "Demo_Asserts",
-        "projectPath": "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\segundo_projeto_test\\Demo_Asserts\\Demo_Asserts.csproj",
+        "projectPath": "c:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\Learning-TDD-NUnit\\segundo_projeto_test\\Demo_Asserts\\Demo_Asserts.csproj",
         "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\segundo_projeto_test\\Demo_Asserts\\obj\\",
+        "outputPath": "c:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\Learning-TDD-NUnit\\segundo_projeto_test\\Demo_Asserts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

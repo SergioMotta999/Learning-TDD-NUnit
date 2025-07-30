@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x5PXMjQb23M=",
+  "dgSpecHash": "f3cDJ8C9qPY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\segundo_projeto_test\\Demo_Asserts.Tests\\Demo_Asserts.Tests.csproj",
+  "projectFilePath": "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\Learning-TDD-NUnit\\segundo_projeto_test\\Demo_Asserts.Tests\\Demo_Asserts.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sergi\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\sergi\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

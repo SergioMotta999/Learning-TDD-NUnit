@@ -21,6 +21,9 @@ public class CaracteristicasJogadorTests
     {
         var jogador = new global::CaracteristicasJogador();
 
+        // Defina a lista de posições válidas
+        var posicoesValidas = new List<string> { "Atacante", "Meio-campo", "Defensor", "Goleiro", "Centroavante", "Lateral", "Ponta" };
+
         // Verifica se a posição do jogador está na lista de posições válidas
         Assert.That(posicoesValidas, Contains.Item(jogador.Posicao));
     }

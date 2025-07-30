@@ -24,7 +24,7 @@ namespace Demo_Asserts.Tests.igualdade
             // Act
             var resultado = calculadora.SomarNumerosDecimais(1.1, 2.2);
             // Assert 
-            Assert.That(resultado, Is.EqualTo(3.3));
+        Assert.That(resultado, Is.EqualTo(3.3).Within(0.0001));
         }
 
         [Test]

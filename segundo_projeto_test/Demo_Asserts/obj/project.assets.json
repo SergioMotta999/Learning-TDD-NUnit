@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\segundo_projeto_test\\Demo_Asserts\\Demo_Asserts.csproj",
+      "projectUniqueName": "c:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\Learning-TDD-NUnit\\segundo_projeto_test\\Demo_Asserts\\Demo_Asserts.csproj",
       "projectName": "Demo_Asserts",
-      "projectPath": "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\segundo_projeto_test\\Demo_Asserts\\Demo_Asserts.csproj",
+      "projectPath": "c:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\Learning-TDD-NUnit\\segundo_projeto_test\\Demo_Asserts\\Demo_Asserts.csproj",
       "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\segundo_projeto_test\\Demo_Asserts\\obj\\",
+      "outputPath": "c:\\Users\\sergi\\Documents\\Projetos de Teste com Nunit\\Learning-TDD-NUnit\\segundo_projeto_test\\Demo_Asserts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -9,3 +9,15 @@ c:\Users\sergi\Documents\Projetos de Teste com Nunit\segundo_projeto_test\Demo_A
 c:\Users\sergi\Documents\Projetos de Teste com Nunit\segundo_projeto_test\Demo_Asserts\obj\Debug\net9.0\refint\Demo_Asserts.dll
 c:\Users\sergi\Documents\Projetos de Teste com Nunit\segundo_projeto_test\Demo_Asserts\obj\Debug\net9.0\Demo_Asserts.pdb
 c:\Users\sergi\Documents\Projetos de Teste com Nunit\segundo_projeto_test\Demo_Asserts\obj\Debug\net9.0\ref\Demo_Asserts.dll
+c:\Users\sergi\Documents\Projetos de Teste com Nunit\Learning-TDD-NUnit\segundo_projeto_test\Demo_Asserts\bin\Debug\net9.0\Demo_Asserts.deps.json
+c:\Users\sergi\Documents\Projetos de Teste com Nunit\Learning-TDD-NUnit\segundo_projeto_test\Demo_Asserts\bin\Debug\net9.0\Demo_Asserts.dll
+c:\Users\sergi\Documents\Projetos de Teste com Nunit\Learning-TDD-NUnit\segundo_projeto_test\Demo_Asserts\bin\Debug\net9.0\Demo_Asserts.pdb
+c:\Users\sergi\Documents\Projetos de Teste com Nunit\Learning-TDD-NUnit\segundo_projeto_test\Demo_Asserts\obj\Debug\net9.0\Demo_Asserts.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sergi\Documents\Projetos de Teste com Nunit\Learning-TDD-NUnit\segundo_projeto_test\Demo_Asserts\obj\Debug\net9.0\Demo_Asserts.AssemblyInfoInputs.cache
+c:\Users\sergi\Documents\Projetos de Teste com Nunit\Learning-TDD-NUnit\segundo_projeto_test\Demo_Asserts\obj\Debug\net9.0\Demo_Asserts.AssemblyInfo.cs
+c:\Users\sergi\Documents\Projetos de Teste com Nunit\Learning-TDD-NUnit\segundo_projeto_test\Demo_Asserts\obj\Debug\net9.0\Demo_Asserts.csproj.CoreCompileInputs.cache
+c:\Users\sergi\Documents\Projetos de Teste com Nunit\Learning-TDD-NUnit\segundo_projeto_test\Demo_Asserts\obj\Debug\net9.0\Demo_Asserts.sourcelink.json
+c:\Users\sergi\Documents\Projetos de Teste com Nunit\Learning-TDD-NUnit\segundo_projeto_test\Demo_Asserts\obj\Debug\net9.0\Demo_Asserts.dll
+c:\Users\sergi\Documents\Projetos de Teste com Nunit\Learning-TDD-NUnit\segundo_projeto_test\Demo_Asserts\obj\Debug\net9.0\refint\Demo_Asserts.dll
+c:\Users\sergi\Documents\Projetos de Teste com Nunit\Learning-TDD-NUnit\segundo_projeto_test\Demo_Asserts\obj\Debug\net9.0\Demo_Asserts.pdb
+c:\Users\sergi\Documents\Projetos de Teste com Nunit\Learning-TDD-NUnit\segundo_projeto_test\Demo_Asserts\obj\Debug\net9.0\ref\Demo_Asserts.dll

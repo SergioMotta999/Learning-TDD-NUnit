@@ -1,0 +1,14 @@
+C:\Users\sergi\Documents\Projetos de Teste com Nunit\primeiro_projeto_test\primeiro_projeto_test\bin\Debug\net9.0\primeiro_projeto_test.exe
+C:\Users\sergi\Documents\Projetos de Teste com Nunit\primeiro_projeto_test\primeiro_projeto_test\bin\Debug\net9.0\primeiro_projeto_test.deps.json
+C:\Users\sergi\Documents\Projetos de Teste com Nunit\primeiro_projeto_test\primeiro_projeto_test\bin\Debug\net9.0\primeiro_projeto_test.runtimeconfig.json
+C:\Users\sergi\Documents\Projetos de Teste com Nunit\primeiro_projeto_test\primeiro_projeto_test\bin\Debug\net9.0\primeiro_projeto_test.dll
+C:\Users\sergi\Documents\Projetos de Teste com Nunit\primeiro_projeto_test\primeiro_projeto_test\bin\Debug\net9.0\primeiro_projeto_test.pdb
+C:\Users\sergi\Documents\Projetos de Teste com Nunit\primeiro_projeto_test\primeiro_projeto_test\obj\Debug\net9.0\primeiro_projeto_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\Documents\Projetos de Teste com Nunit\primeiro_projeto_test\primeiro_projeto_test\obj\Debug\net9.0\primeiro_projeto_test.AssemblyInfoInputs.cache
+C:\Users\sergi\Documents\Projetos de Teste com Nunit\primeiro_projeto_test\primeiro_projeto_test\obj\Debug\net9.0\primeiro_projeto_test.AssemblyInfo.cs
+C:\Users\sergi\Documents\Projetos de Teste com Nunit\primeiro_projeto_test\primeiro_projeto_test\obj\Debug\net9.0\primeiro_projeto_test.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Documents\Projetos de Teste com Nunit\primeiro_projeto_test\primeiro_projeto_test\obj\Debug\net9.0\primeiro_projeto_test.dll
+C:\Users\sergi\Documents\Projetos de Teste com Nunit\primeiro_projeto_test\primeiro_projeto_test\obj\Debug\net9.0\refint\primeiro_projeto_test.dll
+C:\Users\sergi\Documents\Projetos de Teste com Nunit\primeiro_projeto_test\primeiro_projeto_test\obj\Debug\net9.0\primeiro_projeto_test.pdb
+C:\Users\sergi\Documents\Projetos de Teste com Nunit\primeiro_projeto_test\primeiro_projeto_test\obj\Debug\net9.0\primeiro_projeto_test.genruntimeconfig.cache
+C:\Users\sergi\Documents\Projetos de Teste com Nunit\primeiro_projeto_test\primeiro_projeto_test\obj\Debug\net9.0\ref\primeiro_projeto_test.dll
